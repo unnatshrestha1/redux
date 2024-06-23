@@ -1,0 +1,4 @@
+commands used- npm i redux react-redux redux-thunk
+
+action-creators le action lai initiate garcha
+reducers chai function ho, state change garcha
